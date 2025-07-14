@@ -21,16 +21,15 @@ The script must be run with the following requirements:
 
 ### Install DHCP Server
 Use this option to install role and authorize DHCP server in the domain.
-</BR>
 ### Create DHCP Failover
-Use this option to install role and authorize DHCP server in the domain.
+Use this option to create a failover replication scope (Active-Active) with a parthner.
 ### Remove DHCP Failover
-Use this option to install role and authorize DHCP server in the domain.
+Use this option to delete a failover. You must to know the failover name.
 ### Export DHCP Settings
-Use this option to install role and authorize DHCP server in the domain.
+Use this option to export settings of one DHCP to import into another server.
 ### Import DHCP Settings
-Use this option to install role and authorize DHCP server in the domain.
+Use this option to import settings from one DHCP.
 ### Authorize DHCP Server
-Use this option to install role and authorize DHCP server in the domain.
+Use this option to authorize DHCP server in the domain.
 ### Unauthorize DHCP Server
-Use this option to install role and authorize DHCP server in the domain.
+Use this option to unauthorize DHCP server in the domain.
