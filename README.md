@@ -1,7 +1,6 @@
 # Migrate-DHCP-With-Failover
 Script for DHCP Migration
 
-<BR/>
 
 ### How to run:
 
