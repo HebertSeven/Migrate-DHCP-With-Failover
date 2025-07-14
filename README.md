@@ -1,5 +1,5 @@
 # Migrate-DHCP-With-Failover
-Script com foco na migração de servidores DHCP que utilizam Failover
+Script for DHCP Migration
 
 <BR/>
 
@@ -13,7 +13,7 @@ The script must be run with the following requirements:
 
  - Must be run with administrator rights to excecute
 
-## Screenshots:
+### Screenshots:
 
 
 <img src="./img/img01.png"/><br><br>
